@@ -1,5 +1,3 @@
-# California-Housing-Prices
-
 # 🏡 California Housing Price Prediction (ML Regression Project)
 
 This project focuses on analyzing and predicting housing prices in California using machine learning techniques. The dataset is derived from the 1990 U.S. Census and includes various socio-economic and geographical features. The goal is to predict the **median house value** for each block group using regression algorithms and feature selection techniques.
