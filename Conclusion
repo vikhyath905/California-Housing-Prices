@@ -1,0 +1,9 @@
+Conclusion
+
+In this project, we explored the California Housing dataset to predict median house values using both Linear Regression and Random Forest Regressor models. Through extensive data analysis, feature engineering, and model evaluation, we gained the following insights:
+
+Random Forest outperformed Linear Regression significantly, achieving an R² score of 0.8050 compared to 0.5758, indicating its superior ability to capture non-linear relationships in the data.
+The most influential feature across both models was median income (MedInc), which had the strongest positive correlation with housing prices.
+Using Recursive Feature Elimination (RFE), we identified five key features (MedInc, AveRooms, AveBedrms, Latitude, and Longitude) that contributed most to prediction accuracy.
+Model performance was validated using cross-validation, confirming the robustness and generalizability of the Random Forest model.
+Overall, this project demonstrates how machine learning techniques can effectively model real estate prices by leveraging structured census data. Future improvements could include hyperparameter tuning, model ensembling, and the addition of geographic visualizations or external socio-economic data.
